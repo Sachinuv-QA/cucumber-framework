@@ -92,7 +92,7 @@ Download and open the file in any browser to view test execution summary, passed
 
 ## Author
 
-Sachin Kore
+SachinUV
 
 Skills:
 - Manual Testing  
